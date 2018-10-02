@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms-Implementation
-#In progress
+#In progress, implementation of algorithms from scratch
